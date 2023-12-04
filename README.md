@@ -1,8 +1,8 @@
-[![Build Status](https://dev.azure.com/2130484/Space%20Game%20web%20Workflow/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/2130484/Space%20Game%20web%20Workflow/_build/latest?definitionId=3&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
+Contributor Lqicense Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
 When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
